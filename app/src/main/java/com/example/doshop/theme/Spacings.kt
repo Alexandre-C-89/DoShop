@@ -1,4 +1,4 @@
-package com.example.doshop.ui.theme
+package com.example.doshop.theme
 
 import androidx.compose.ui.unit.dp
 

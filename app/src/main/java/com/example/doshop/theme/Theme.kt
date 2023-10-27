@@ -1,4 +1,4 @@
-package com.example.doshop.ui.theme
+package com.example.doshop.theme
 
 import android.app.Activity
 import android.os.Build
